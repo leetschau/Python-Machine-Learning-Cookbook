@@ -25,3 +25,4 @@ There is a lot of debate going on between Python 2.x and Python 3.x. While we be
 * [Mastering Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
 
 * [OpenCV with Python By Example](https://www.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign=9781785283932)
+added by baishuangran
