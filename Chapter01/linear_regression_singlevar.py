@@ -41,6 +41,8 @@ linear_regressor.fit(X_train, y_train)
 y_test_pred = linear_regressor.predict(X_test)
 
 # Plot outputs
+import matplotlib
+matplotlib.use('nbagg')
 import matplotlib.pyplot as plt
 
 plt.scatter(X_test, y_test, color='green')
